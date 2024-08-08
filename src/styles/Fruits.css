@@ -1,0 +1,21 @@
+
+li{
+    list-style: none;
+    padding: 5px;
+}
+button{
+    width: 150px;
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+label{
+    width: 150px;
+}
+input{
+    height: 15px;
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
+}
