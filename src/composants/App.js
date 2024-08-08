@@ -1,6 +1,6 @@
+import "../styles/Accueil.css";
 import './App.css';
 import Accueil from './Site/Accueil';
-
 function App() {
   /*
   return <div>
